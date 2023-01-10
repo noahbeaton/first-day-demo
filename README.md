@@ -1,2 +1,2 @@
-# dirst-day-demo
+# first-day-demo
 My Repo
